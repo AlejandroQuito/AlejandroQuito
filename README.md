@@ -22,5 +22,5 @@ Java-разработчик с опытом командной разработ�
  
 ## 📫 Контакты
 
-- 📧 Email: [AleksandrIKozlov@ya.ru](AleksandrIKozlov@ya.ru)
+- 📧 Email: [aleksandrikozlov@ya.ru](mailto:aleksandrikozlov@ya.ru)
 - 💬 Telegram: [@AlejandroQuito](https://t.me/AlejandroQuito)
